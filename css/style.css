@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;1,100&family=Silkscreen&display=swap');
+
+body{
+    background-color: #61764B;
+}
+article{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: row;
+    color: #CFB997;
+}
+h1{
+    color: #9BA17B;
+}
+.mango{
+    width: 200px;
+    height: 200px;
+}
